@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://i1.wp.com/auralcrave.com/wp-content/uploads/2019/02/banksy_girl_and_heart_balloon_2840632113-1539854394600-1200x800.jpeg?resize=810%2C515&ssl=1");
+  background-image: url("https://thumbs.gfycat.com/AliveAdmirableEidolonhelvum-max-1mb.gif");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
@@ -136,7 +136,7 @@ aside {
   text-align: center;
 }
 div {
-  color: blue;
+  color: white;
 }
 /* style nav start */
 body {
@@ -192,4 +192,7 @@ body {
     display: block;
     text-align: left;
   }
+}
+img {
+  border-radius: 50%;
 }
