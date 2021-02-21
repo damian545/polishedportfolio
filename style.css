@@ -8,8 +8,11 @@ h2 {
   text-shadow: 3px 3px black;
   color: white;
 }
-a,
-h {
+a {
+  color: rgb(54, 252, 5);
+}
+h,
+p1 {
   color: white;
 }
 p {
